@@ -1,10 +1,10 @@
 <pre>
   BIP: XX
-  标题: Atomic Cross Chain Transfers
+  标题: 原子化跨链转账
   英文作者: Noel Tiernan <tier.nolan@gmail.com>
   英文地址：https://github.com/TierNolan/bips/blob/bip4x/bip-atom.mediawiki
-  翻译： 招财币冷月
-  翻译地址：
+  翻译： 招财币冷月 新浪微博 @招财币冷月
+  翻译地址：https://github.com/zccoin/atomic/blob/master/bip-atomic_zh.md
   状态: 草稿
   类型: Standards Track
   创建日期: 2014-04-29
